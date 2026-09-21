@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyCity</string>
+
+    <!-- Categorías -->
+    <string name="category_cafes">Cafés</string>
+    <string name="category_restaurants">Restaurantes</string>
+    <string name="category_parks">Parques</string>
+    <string name="category_museums">Museos</string>
+    <string name="back">Atrás</string>
+
+    <!-- Cafés -->
+    <string name="cafe_bisetti">Café Bisetti</string>
+    <string name="cafe_bisetti_desc">Un clásico de Barranco, famoso por su café de especialidad y su ambiente bohemio. Ideal para una pausa por la tarde.</string>
+    <string name="cafe_bisetti_addr">Barranco, Lima</string>
+
+    <string name="cafe_verde">Café Verde</string>
+    <string name="cafe_verde_desc">Cafetería tranquila con terraza y jardín, perfecta para trabajar o conversar con un buen café y postres caseros.</string>
+    <string name="cafe_verde_addr">Miraflores, Lima</string>
+
+    <!-- Restaurantes -->
+    <string name="rest_central">Central</string>
+    <string name="rest_central_desc">Restaurante de alta cocina peruana que recorre los ecosistemas del país por altitud, con menús de degustación.</string>
+    <string name="rest_central_addr">Barranco, Lima</string>
+
+    <string name="rest_isolina">Astrid y Gastón</string>
+    <string name="rest_isolina_desc">Uno de los restaurantes más emblemáticos de Lima, referente de la cocina peruana de autor en una casona histórica.</string>
+    <string name="rest_isolina_addr">San Isidro, Lima</string>
+
+    <!-- Parques -->
+    <string name="park_kennedy">Parque Kennedy</string>
+    <string name="park_kennedy_desc">El corazón de Miraflores, conocido por sus gatos, sus ferias de arte y su movimiento a todas horas.</string>
+    <string name="park_kennedy_addr">Miraflores, Lima</string>
+
+    <string name="park_olivar">Parque El Olivar</string>
+    <string name="park_olivar_desc">Bosque de olivos centenarios con senderos y una laguna, un respiro verde en el distrito de San Isidro.</string>
+    <string name="park_olivar_addr">San Isidro, Lima</string>
+
+    <!-- Museos -->
+    <string name="museum_mali">Museo de Arte de Lima (MALI)</string>
+    <string name="museum_mali_desc">Recorre siglos de arte peruano, desde la época precolombina hasta el arte contemporáneo, en el Palacio de la Exposición.</string>
+    <string name="museum_mali_addr">Parque de la Exposición, Lima</string>
+
+    <string name="museum_larco">Museo Larco</string>
+    <string name="museum_larco_desc">Una gran colección de arte precolombino en una casona virreinal, con un jardín precioso y una galería de cerámica erótica.</string>
+    <string name="museum_larco_addr">Pueblo Libre, Lima</string>
+</resources>
